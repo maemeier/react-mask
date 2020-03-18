@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div>
       <Layout />
-      <Header />
+      <Header></Header>
       <List />
     </div>
   );
