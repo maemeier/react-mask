@@ -5,7 +5,7 @@ const Navbar = () => {
     <div>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand" href="#">
-          MASKFINDER
+          รายชื่อโรงพยาบาล
         </a>
         <button
           class="navbar-toggler"
